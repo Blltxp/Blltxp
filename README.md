@@ -10,11 +10,11 @@
 
 ```ts
 const blltxp = {
-  role:      "Frontend Developer & Full Stack Builder",
+  role:      "IT | Frontend Developer & Full Stack Builder",
   location:  "Thailand 🇹🇭",
   focus:     ["Beautiful UI", "Scalable Architecture", "Security-first Dev"],
   loves:     ["Clean Code", "Cheat Sheets", "Step-by-step Docs"],
-  currently: "Building cross-platform apps with Flutter & Next.js",
+  currently: "Building internal tools & company web systems with Next.js",
   fun_fact:  "Private repo + env flags = sleep well at night 🔐"
 };
 ```
@@ -89,13 +89,13 @@ const blltxp = {
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Stack |
-|---|---|---|
-| **Home Services Platform** | Thai home services web app with booking system | WordPress, Elementor, PHP |
-| **Auth System** | JWT + Cookie-based admin/viewer auth with Neon DB | Next.js, PostgreSQL, TypeScript |
-| **Flutter Mobile App** | Cross-platform mobile app (iOS/Android) | Dart, Flutter |
-
-> 🔐 Most projects are in **private repos** — deployed previews available on request via Vercel
+| 🎯 Project | 📝 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **SEO System** | ระบบปฏิบัติการ SEO สำหรับทีม — ตรวจอันดับ Google, ตรวจซ้ำบทความ, sync WordPress, สถิติผู้เข้าชม, export รายงาน | Next.js, TypeScript, Tailwind, SQLite/PostgreSQL, JWT, Puppeteer | [Demo ↗](https://seo-system-rosy.vercel.app) |
+| **Suksawat Maid** | เว็บไซต์บริษัทบริการทำความสะอาดไทย — สร้างด้วย Next.js แทนของเดิม | Next.js, TypeScript, Tailwind, WordPress API | [Demo ↗](https://suksawat-maid-next-js.vercel.app) |
+| **YouTube Music Clone** | Clone UI ของ YouTube Music ฝึก frontend layout & component | HTML, CSS, JavaScript | [Repo ↗](https://github.com/Blltxp/YoutubeMusic-Clone) |
+| **C-418 Tribute Page** | หน้าเว็บ tribute ให้ C-418 ศิลปิน Minecraft soundtrack | HTML | [Repo ↗](https://github.com/Blltxp/C-418_html) |
+| **Zeitgeber Thailand Demo** | Demo website สำหรับแบรนด์นาฬิกา Zeitgeber ในไทย | Next.js / Web | [Repo ↗](https://github.com/Blltxp/Zeitgeber-Thailand-demo) |
 
 </div>
 
