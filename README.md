@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey!%20I'm%20Blltxp%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20%7C%20Frontend%20Developer%20%7C%20Mobile%20%7C%20Full%20Stack%20Builder&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey!%20I'm%20Belwtxp%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20%7C%20Frontend%20Developer%20%7C%20Mobile%20%7C%20Full%20Stack%20Builder&descAlignY=60&descAlign=50)
 
 </div>
 
@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const blltxp = {
+const belwtxp = {
   role:      "IT | Frontend Developer & Full Stack Builder",
   location:  "Thailand 🇹🇭",
   focus:     ["Beautiful UI", "Scalable Architecture", "Security-first Dev"],
@@ -69,10 +69,10 @@ const blltxp = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Blltxp&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Blltxp&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Belwtxp&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Belwtxp&theme=radical&hide_border=true" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blltxp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belwtxp&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -82,7 +82,7 @@ const blltxp = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Blltxp&theme=radical&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Belwtxp&theme=radical&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -97,7 +97,7 @@ const blltxp = {
 | **SEO System** | ระบบ SEO ภายในองค์กร — ตรวจอันดับ Google, ตรวจซ้ำบทความ, sync WordPress หลายเว็บ, สถิติผู้เข้าชม, export รายงาน | Next.js 16, TypeScript, Tailwind v4, SQLite/PostgreSQL, JWT, Puppeteer, Google CSE | [Demo ↗](https://seo-system-rosy.vercel.app) |
 | **Suksawat Maid** | เว็บไซต์บริษัทบริการทำความสะอาดไทย — Next.js สร้างใหม่แทนของเดิม ดึงข้อมูลจาก WordPress REST API | Next.js, TypeScript, Tailwind CSS, WordPress API | [Demo ↗](https://suksawat-maid-next-js.vercel.app) |
 | **Zeitgeber Thailand** | เว็บ SPA แสดงสินค้าแบรนด์ Zeitgeber — Filter/Sort สินค้า, Image Comparison Slider, Parallax animations | React 19, Vite, TypeScript, React Router, Tailwind CSS | [Demo ↗](https://zeitgeber-thailnd-demo.vercel.app) |
-| **YouTube Music Clone** | แอปจำลอง YouTube Music — Music Player + Queue + MiniPlayer + Reels + Role-based UX (normal/premium/admin) | Flutter, Dart, Provider, just\_audio, video\_player | [Repo ↗](https://github.com/Blltxp/YoutubeMusic-Clone) |
+| **YouTube Music Clone** | แอปจำลอง YouTube Music — Music Player + Queue + MiniPlayer + Reels + Role-based UX (normal/premium/admin) | Flutter, Dart, Provider, just\_audio, video\_player | [Repo ↗](https://github.com/Belwtxp/YoutubeMusic-Clone) |
 | **C-418 Website** | Static landing page แนะนำทีม — Sticky navbar, smooth scroll, mobile menu, deploy ด้วย Docker + Nginx | HTML5, CSS3, JavaScript, jQuery, Docker/Nginx | [Demo ↗](https://c-418-html.vercel.app) |
 
 > 🔐 Some projects are in **private repos** — Vercel previews available on request
@@ -110,7 +110,7 @@ const blltxp = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blltxp&theme=redical&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Belwtxp&theme=redical&hide_border=true&area=true)
 
 </div>
 
@@ -120,7 +120,7 @@ const blltxp = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blltxp)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belwtxp)
 [![Vercel](https://img.shields.io/badge/Projects%20on%20Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
@@ -131,6 +131,6 @@ const blltxp = {
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Blltxp&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Belwtxp&color=blueviolet&style=for-the-badge)
 
 </div>
