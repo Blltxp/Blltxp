@@ -96,7 +96,7 @@ const blltxp = {
 |---|---|---|---|
 | **SEO System** | ระบบ SEO ภายในองค์กร — ตรวจอันดับ Google, ตรวจซ้ำบทความ, sync WordPress หลายเว็บ, สถิติผู้เข้าชม, export รายงาน | Next.js 16, TypeScript, Tailwind v4, SQLite/PostgreSQL, JWT, Puppeteer, Google CSE | [Demo ↗](https://seo-system-rosy.vercel.app) |
 | **Suksawat Maid** | เว็บไซต์บริษัทบริการทำความสะอาดไทย — Next.js สร้างใหม่แทนของเดิม ดึงข้อมูลจาก WordPress REST API | Next.js, TypeScript, Tailwind CSS, WordPress API | [Demo ↗](https://suksawat-maid-next-js.vercel.app) |
-| **Zeitgeber Thailand** | เว็บ SPA แสดงสินค้านาฬิกาแบรนด์ Zeitgeber — Filter/Sort สินค้า, Image Comparison Slider, Parallax animations | React 19, Vite, TypeScript, React Router, Tailwind CSS | [Demo ↗](https://zeitgeber-thailnd-demo.vercel.app) |
+| **Zeitgeber Thailand** | เว็บ SPA แสดงสินค้าแบรนด์ Zeitgeber — Filter/Sort สินค้า, Image Comparison Slider, Parallax animations | React 19, Vite, TypeScript, React Router, Tailwind CSS | [Demo ↗](https://zeitgeber-thailnd-demo.vercel.app) |
 | **YouTube Music Clone** | แอปจำลอง YouTube Music — Music Player + Queue + MiniPlayer + Reels + Role-based UX (normal/premium/admin) | Flutter, Dart, Provider, just\_audio, video\_player | [Repo ↗](https://github.com/Blltxp/YoutubeMusic-Clone) |
 | **C-418 Website** | Static landing page แนะนำทีม — Sticky navbar, smooth scroll, mobile menu, deploy ด้วย Docker + Nginx | HTML5, CSS3, JavaScript, jQuery, Docker/Nginx | [Demo ↗](https://c-418-html.vercel.app) |
 
