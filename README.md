@@ -30,8 +30,10 @@ const blltxp = {
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🖥️ Backend & Database
@@ -52,6 +54,7 @@ const blltxp = {
 
 ### 🔧 Workflow & Infra
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -91,11 +94,13 @@ const blltxp = {
 
 | 🎯 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |---|---|---|---|
-| **SEO System** | ระบบปฏิบัติการ SEO สำหรับทีม — ตรวจอันดับ Google, ตรวจซ้ำบทความ, sync WordPress, สถิติผู้เข้าชม, export รายงาน | Next.js, TypeScript, Tailwind, SQLite/PostgreSQL, JWT, Puppeteer | [Demo ↗](https://seo-system-rosy.vercel.app) |
-| **Suksawat Maid** | เว็บไซต์บริษัทบริการทำความสะอาดไทย — สร้างด้วย Next.js แทนของเดิม | Next.js, TypeScript, Tailwind, WordPress API | [Demo ↗](https://suksawat-maid-next-js.vercel.app) |
-| **YouTube Music Clone** | Clone UI ของ YouTube Music ฝึก frontend layout & component | HTML, CSS, JavaScript | [Repo ↗](https://github.com/Blltxp/YoutubeMusic-Clone) |
-| **C-418 Tribute Page** | หน้าเว็บ tribute ให้ C-418 ศิลปิน Minecraft soundtrack | HTML | [Repo ↗](https://github.com/Blltxp/C-418_html) |
-| **Zeitgeber Thailand Demo** | Demo website สำหรับแบรนด์นาฬิกา Zeitgeber ในไทย | Next.js / Web | [Repo ↗](https://github.com/Blltxp/Zeitgeber-Thailand-demo) |
+| **SEO System** | ระบบ SEO ภายในองค์กร — ตรวจอันดับ Google, ตรวจซ้ำบทความ, sync WordPress หลายเว็บ, สถิติผู้เข้าชม, export รายงาน | Next.js 16, TypeScript, Tailwind v4, SQLite/PostgreSQL, JWT, Puppeteer, Google CSE | [Demo ↗](https://seo-system-rosy.vercel.app) |
+| **Suksawat Maid** | เว็บไซต์บริษัทบริการทำความสะอาดไทย — Next.js สร้างใหม่แทนของเดิม ดึงข้อมูลจาก WordPress REST API | Next.js, TypeScript, Tailwind CSS, WordPress API | [Demo ↗](https://suksawat-maid-next-js.vercel.app) |
+| **Zeitgeber Thailand** | เว็บ SPA แสดงสินค้านาฬิกาแบรนด์ Zeitgeber — Filter/Sort สินค้า, Image Comparison Slider, Parallax animations | React 19, Vite, TypeScript, React Router, Tailwind CSS | [Demo ↗](https://zeitgeber-thailnd-demo.vercel.app) |
+| **YouTube Music Clone** | แอปจำลอง YouTube Music — Music Player + Queue + MiniPlayer + Reels + Role-based UX (normal/premium/admin) | Flutter, Dart, Provider, just\_audio, video\_player | [Repo ↗](https://github.com/Blltxp/YoutubeMusic-Clone) |
+| **C-418 Website** | Static landing page แนะนำทีม — Sticky navbar, smooth scroll, mobile menu, deploy ด้วย Docker + Nginx | HTML5, CSS3, JavaScript, jQuery, Docker/Nginx | [Demo ↗](https://c-418-html.vercel.app) |
+
+> 🔐 Some projects are in **private repos** — Vercel previews available on request
 
 </div>
 
